@@ -1,0 +1,3 @@
+[submodule "projects/git-cpp"]
+	path = projects/git-cpp
+	url = https://git.codecrafters.io/8793339d2f17579b
